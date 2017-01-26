@@ -1,2 +1,3 @@
 # hello-world
-start
+
+This is a test project by newbie.
